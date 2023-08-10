@@ -1,0 +1,2 @@
+# nginx
+NGINX Sample configuration
